@@ -26,7 +26,7 @@ Telegram
 - Test 
 
 Service link:
-- https://helloworld-3ytqdf55bq-uc.a.runi.app/
+- https://helloworld-3ytqdf55bq-uc.a.run.app/
 
 Telegram channel:
 - https://t.me/pipelineupdates
