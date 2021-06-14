@@ -35,7 +35,7 @@ Telegram channel:
 - Building and testing node js - (https://docs.github.com/en/actions/guides/building-and-testing-
 nodejs)
 - Including MYSQL in the backend - https://cloud.google.com/architecture/setup-mysql
-- Google Cloud Build - https://cloud.google. You com/build
+- Google Cloud Build - https://cloud.google.
 
 ## Quicklinks: 
 - Google Cloud Shell - https://shell.cloud.google.com/
