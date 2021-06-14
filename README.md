@@ -32,7 +32,7 @@ Telegram channel:
 - https://t.me/pipelineupdates
 
 ## Next steps:
-- Building and testing node js - (https://docs.github.com/en/actions/guides/building-and-testing-nodejs)
+- Building and testing node js - https://docs.github.com/en/actions/guides/building-and-testing-nodejs
 - Including MYSQL in the backend - https://cloud.google.com/architecture/setup-mysql
 - Google Cloud Build - https://cloud.google.
 
